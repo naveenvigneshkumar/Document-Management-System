@@ -37,7 +37,7 @@ Start the Node Server
 ```
 
    Run Jest testing 
-
+change the TEST_SUIT = true in env file
 ```bash
   cd Document-Management-System
   npm test
